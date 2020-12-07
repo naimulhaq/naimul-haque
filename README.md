@@ -1,4 +1,4 @@
-### Hey, I'm Naimul 👋 👋
+### Hey, I'm Naimul 👋 
 
 <!--
 **naimul-haque/naimul-haque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
